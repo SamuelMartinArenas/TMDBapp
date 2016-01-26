@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.samuelmartn.myohometfg.SplashScreenActivity"
+    android:background="@color/material_blue_grey_800">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="263dp"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:adjustViewBounds="true"
+        android:src="@drawable/tmdbimage"
+        android:layout_gravity="center_vertical" />
+
+</LinearLayout>

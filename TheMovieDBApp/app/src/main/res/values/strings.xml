@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TheMovieDBApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string-array name="pref_entries" translatable = "false"><item>Populares</item><item>Visitadas</item><item>Favoritos</item></string-array>
+    <string-array name="pref_values" translatable = "false"><item>populares</item><item>visitadas</item><item>favoritos</item></string-array>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+
+</resources>
